@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "mouse",
+      "description": "mouse gaming",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "keyboard",
+      "description": "keyboard gaming",
+      "price": 200,
+      "inStock": false
+    },
+    {
+      "name": "server",
+      "description": "server web",
+      "price": "1000",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "mouse ",
+      "description": "muse gaming",
+      "price": "2000",
+      "inStock": true,
+      "id": 5
+    }
+  ]
+}
